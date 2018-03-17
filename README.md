@@ -20,4 +20,5 @@ For further inquires contact me on mohamedtarekeltorky@gmail.com or leave a comm
 UPDATES:
 ------------------------------------
 3/17/2018 added a modifed .java file to handle the user input error.
+
 *Now the program won't accept any inputs unless it's vaild equation with vaild A,B values.
